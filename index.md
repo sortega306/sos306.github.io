@@ -13,5 +13,7 @@ Lieblingsfarben: Gibt es nicht
 * Farbe: Dispersion
 
 As Karl Popper said:
-> Auf der mit sichbaren Seite
+> Auf der mir sichbaren Seite
 > sind die Schafe geschoren.
+
+<img src="https://labs.signum-web.eu/portrait-3052641_640.jpg"/>
