@@ -8,6 +8,6 @@ Vorlieben: Sitzt oft und gern und lauscht dabei den Klängen, die aus den Öffnu
 Lieblingsfarben: Gibt es nicht
 
 ## Eigenschaften
-+ Speise: Hähnchen
+* Speise: Hähnchen
 * Getränk: Wasser
 * Farbe: Dispersion
