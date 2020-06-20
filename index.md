@@ -16,4 +16,4 @@ As Karl Popper said:
 > Auf der mir sichbaren Seite
 > sind die Schafe geschoren.
 
-<img src="https://pixabay.com/de/images/download/portrait-3052641_640.jpg"/>
+<img src="https://labs.signum-web.eu/portrait-3052641_640.jpg"/>
