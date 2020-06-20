@@ -11,3 +11,7 @@ Lieblingsfarben: Gibt es nicht
 * Speise: Hähnchen
 * Getränk: Wasser
 * Farbe: Dispersion
+
+As Karl Popper said:
+> Auf der mit sichbaren Seite
+> sind die Schafe geschoren.
